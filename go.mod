@@ -1,3 +1,3 @@
-module To-Do-app
+module todo-app
 
 go 1.26.0
